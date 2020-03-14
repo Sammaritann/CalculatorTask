@@ -1,0 +1,14 @@
+{
+  "Dollar rate": {
+    "ToEuro": "0,5",
+    "ToRub": "50"
+  },
+  "Rub rate": {
+    "ToEuro": "0,01",
+    "ToDollar": "0,02"
+  },
+  "Euro rate": {
+    "ToDollar": "2",
+    "ToRub": "100"
+  }
+}

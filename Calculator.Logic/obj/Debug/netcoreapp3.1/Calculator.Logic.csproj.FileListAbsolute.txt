@@ -1,0 +1,16 @@
+D:\Calculator\Calculator.Logic\bin\Debug\netcoreapp3.1\Calculator.Logic.deps.json
+D:\Calculator\Calculator.Logic\bin\Debug\netcoreapp3.1\Calculator.Logic.dll
+D:\Calculator\Calculator.Logic\bin\Debug\netcoreapp3.1\Calculator.Logic.pdb
+D:\Calculator\Calculator.Logic\obj\Debug\netcoreapp3.1\Calculator.Logic.AssemblyInfoInputs.cache
+D:\Calculator\Calculator.Logic\obj\Debug\netcoreapp3.1\Calculator.Logic.AssemblyInfo.cs
+D:\Calculator\Calculator.Logic\obj\Debug\netcoreapp3.1\Calculator.Logic.dll
+D:\Calculator\Calculator.Logic\obj\Debug\netcoreapp3.1\Calculator.Logic.pdb
+D:\Calculator\Calculator.Logic\obj\Debug\netcoreapp3.1\Calculator.Logic.csprojAssemblyReference.cache
+D:\CalculatorTask\Calculator.Logic\bin\Debug\netcoreapp3.1\Calculator.Logic.deps.json
+D:\CalculatorTask\Calculator.Logic\bin\Debug\netcoreapp3.1\Calculator.Logic.dll
+D:\CalculatorTask\Calculator.Logic\bin\Debug\netcoreapp3.1\Calculator.Logic.pdb
+D:\CalculatorTask\Calculator.Logic\obj\Debug\netcoreapp3.1\Calculator.Logic.csprojAssemblyReference.cache
+D:\CalculatorTask\Calculator.Logic\obj\Debug\netcoreapp3.1\Calculator.Logic.AssemblyInfoInputs.cache
+D:\CalculatorTask\Calculator.Logic\obj\Debug\netcoreapp3.1\Calculator.Logic.AssemblyInfo.cs
+D:\CalculatorTask\Calculator.Logic\obj\Debug\netcoreapp3.1\Calculator.Logic.dll
+D:\CalculatorTask\Calculator.Logic\obj\Debug\netcoreapp3.1\Calculator.Logic.pdb

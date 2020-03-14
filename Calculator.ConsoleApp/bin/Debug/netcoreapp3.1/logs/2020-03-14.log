@@ -1,0 +1,13 @@
+1 | ERROR | Query: 123r + 123eur,ToDollar: | Exception: The type initializer for 'Calculator.Logic.Rub' threw an exception.
+1 | ERROR | Query: 12r + $20,ToDollar: | Exception: The type initializer for 'Calculator.Logic.Rub' threw an exception.
+1 | TRACE | Query: 123r + 123eur,ToDollar: | Result: $248,46
+2 | TRACE | Query: 123eur-321r,ToRub: | Result: 11979r
+3 | ERROR | Query: $12,3+$12,3+$12,3 -$12,3 + $12,3,ToDollar: | Exception: Exception of type 'Calculator.Logic.Exceptions.FinalConverterException' was thrown.
+4 | ERROR | Query: $12.3+$12.3+$12.3 -$12.3 + $12.3,ToDollar: | Exception: $12.3
+1 | ERROR | Query: 123r + 123eur,ToDollar: | Exception: ,ToDollar:
+1 | ERROR | Query: 123r + 123eur,ToDollar: | Exception: 
+1 | TRACE | Query: 123r + 123eur,ToDollar: | Result: $248,46
+2 | TRACE | Query: $12,3+$12,3+$12,3 -$12,3 + $12,3,ToEuro: | Result: 18,450000000000003euro
+3 | TRACE | Query: $12,3+$12,3+$12,3 -$12,3 + $12,3,ToRub: | Result: 1845,0000000000002r
+4 | TRACE | Query: $12,3+$12,3+$12,3 -$12,3 + $12,3,ToDollar: | Result: $36,900000000000006
+1 | TRACE | Query: 5eur:ToRub -45r -$12, ToEuro: | Result: -1,4500000000000002euro

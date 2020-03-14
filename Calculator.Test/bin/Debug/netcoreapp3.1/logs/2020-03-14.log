@@ -1,0 +1,42 @@
+1 | TRACE | Query: $1:ToEuro - 30r:ToDollar,ToRub: | Result: -220r
+1 | TRACE | Query: $1:ToEuro - 30r:ToDollar,ToRub: | Result: -220r
+1 | TRACE | Query: $1:ToEuro - 30r:ToDollar,ToRub: | Result: -220r
+1 | TRACE | Query: $1:ToEuro - 30r:ToDollar,ToRub: | Result: -220r
+1 | ERROR | Query: 123r + 123eur,ToDollar: | Exception: The type initializer for 'Calculator.Logic.Rub' threw an exception.
+2 | ERROR | Query: 123eur - 321r,ToRub: | Exception: The type initializer for 'Calculator.Logic.Rub' threw an exception.
+1 | TRACE | Query: 123r + 123eur,ToDollar: | Result: $248,46
+2 | TRACE | Query: 123eur - 321r,ToRub: | Result: 11979r
+1 | TRACE | Query: 123r + 123eur,ToDollar: | Result: $248,46
+2 | TRACE | Query: 123eur - 321r,ToRub: | Result: 11979r
+1 | TRACE | Query: 123r + 123eur,ToDollar: | Result: $248,46
+2 | TRACE | Query: 123eur - 321r,ToRub: | Result: 11979r
+1 | TRACE | Query: 123r + 123eur,ToDollar: | Result: $248,46
+2 | TRACE | Query: 123eur - 321r,ToRub: | Result: 11979r
+1 | TRACE | Query: 123r + 123eur,ToDollar: | Result: $248,46
+2 | TRACE | Query: 123eur - 321r,ToRub: | Result: 11979r
+1 | TRACE | Query: 123r + 123eur,ToDollar: | Result: $248,46
+2 | TRACE | Query: 123eur - 321r,ToRub: | Result: 11979r
+1 | TRACE | Query: 123r + 123eur,ToDollar: | Result: $248,46
+2 | TRACE | Query: 123eur - 321r,ToRub: | Result: 11979r
+3 | ERROR | Query: 123 eur - 321r,ToDollar: | Exception: Exception of type 'Calculator.Logic.Exceptions.QueryException' was thrown.
+4 | ERROR | Query: 123eor - 321r,ToDollar: | Exception: eor
+5 | ERROR | Query: $123:ToRub:ToDollar - $123,ToDollar: | Exception: Exception of type 'Calculator.Logic.Exceptions.QuerySingleConverterException' was thrown.
+6 | ERROR | Query: $12,3:Toeuro +$12,3+$12,3 -$12,3 + $12,3,ToDollar: | Exception: Toeuro
+7 | ERROR | Query: -$12.3 - $123 +$123,ToDollar: | Exception: -$12.3
+8 | ERROR | Query: -$12.3 - $123 +$123,Todolar: | Exception: -$12.3
+1 | TRACE | Query: 123r + 123eur,ToDollar: | Result: $248,46
+2 | TRACE | Query: 123eur - 321r,ToRub: | Result: 11979r
+3 | ERROR | Query: 123 eur - 321r,ToDollar: | Exception: Exception of type 'Calculator.Logic.Exceptions.QueryException' was thrown.
+4 | ERROR | Query: 123eor - 321r,ToDollar: | Exception: eor
+5 | ERROR | Query: $123:ToRub:ToDollar - $123,ToDollar: | Exception: Exception of type 'Calculator.Logic.Exceptions.QuerySingleConverterException' was thrown.
+6 | ERROR | Query: $12,3:Toeuro +$12,3+$12,3 -$12,3 + $12,3,ToDollar: | Exception: Toeuro
+7 | ERROR | Query: -$12.3 - $123 +$123,ToDollar: | Exception: -$12.3
+8 | ERROR | Query: -$123 - $123 +$123,Todolar: | Exception: Todolar:
+1 | TRACE | Query: 123r + 123eur,ToDollar: | Result: $248,46
+2 | TRACE | Query: 123eur - 321r,ToRub: | Result: 11979r
+3 | ERROR | Query: 123 eur - 321r,ToDollar: | Exception: Exception of type 'Calculator.Logic.Exceptions.QueryException' was thrown.
+4 | ERROR | Query: 123eor - 321r,ToDollar: | Exception: eor
+5 | ERROR | Query: $123:ToRub:ToDollar - $123,ToDollar: | Exception: Exception of type 'Calculator.Logic.Exceptions.QuerySingleConverterException' was thrown.
+6 | ERROR | Query: $12,3:Toeuro +$12,3+$12,3 -$12,3 + $12,3,ToDollar: | Exception: Toeuro
+7 | ERROR | Query: -$12.3 - $123 +$123,ToDollar: | Exception: -$12.3
+8 | ERROR | Query: -$123 - $123 +$123,Todolar: | Exception: Todolar:
